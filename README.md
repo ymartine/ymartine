@@ -2,16 +2,16 @@
 
 Software engineering student at **École 42 Paris** — a project-based
 program with no lectures, built entirely on systems
-programming and peer review, peer to peer learning.
+programming and peer to peer learning.
 
 Currently looking for a **6-month internship in Prague**, available
-from **immediately**, flexible on the exact start date.
+**immediately**, flexible on the exact start date.
 
 ## Stack
 
-**Languages** — C, C++, JavaScript/TypeScript
-**Systems** — Linux, Docker, Bash, Git
-**Web** — React, Next.js, WebSockets *socket.io*
+- **Languages** — C, C++, JavaScript/TypeScript
+- **Systems** — Linux, Docker, Bash, Git
+- **Web** — React, Next.js, WebSockets (socket.io)
 
 ### Selected projects
 
