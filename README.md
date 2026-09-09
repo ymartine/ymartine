@@ -38,4 +38,4 @@ no solutions published, per school policy.*
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/yanis-martinez1) · [Email](mailto:yyyanis.martinez@gmail.com)
+[LinkedIn](https://linkedin.com/in/yanis-martinez15) · [Email](mailto:yyyanis.martinez@gmail.com)
